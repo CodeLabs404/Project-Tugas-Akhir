@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 9c18aa54ab7ea54409e0d0633232c664
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Poci: {instanceID: 0}
+  - Saron: {instanceID: 0}
+  - Singkal: {instanceID: 0}
+  - Tarawangsa: {instanceID: 0}
+  - Badik: {instanceID: 0}
+  - Bonang: {instanceID: 0}
+  - Botol: {instanceID: 0}
+  - Gong: {instanceID: 0}
+  - Pangarih: {instanceID: 0}
+  - Mangkuk: {instanceID: 0}
+  - Lulumpang: {instanceID: 0}
+  - Kolotok: {instanceID: 0}
+  - Keris: {instanceID: 0}
+  - Helm: {instanceID: 0}
+  - Bubu: {instanceID: 0}
+  - Bokor: {instanceID: 0}
+  - Tombak: {instanceID: 0}
+  - Tas: {instanceID: 0}
+  - Setrika: {instanceID: 0}
+  - Etem: {instanceID: 0}
+  - Topi: {instanceID: 0}
+  - Lesung: {instanceID: 0}
+  - LampuKereta: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

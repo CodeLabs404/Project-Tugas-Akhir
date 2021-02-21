@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TOMBAK" size="100.000000 109.083908" />
+    <ImageTarget name="TAS_KANERON" size="100.000000 109.083908" />
+    <ImageTarget name="SINGKAL" size="100.000000 109.083908" />
+    <ImageTarget name="SARON" size="100.000000 109.083908" />
+    <ImageTarget name="REBAB_TARAWANGSA" size="100.000000 109.083908" />
+    <ImageTarget name="PANGARIH" size="100.000000 109.083908" />
+    <ImageTarget name="MANGKUK_ANTIK" size="100.000000 109.083908" />
+    <ImageTarget name="LULUMPANG" size="100.000000 109.083908" />
+    <ImageTarget name="LESUNG" size="100.000000 109.083908" />
+    <ImageTarget name="LAMPU_SINYAL_KERETA" size="100.000000 109.083908" />
+    <ImageTarget name="KERIS" size="100.000000 109.083908" />
+    <ImageTarget name="HELM_PRAJURIT" size="100.000000 109.083908" />
+    <ImageTarget name="GONG" size="100.000000 109.083908" />
+    <ImageTarget name="ETEM" size="100.000000 109.083908" />
+    <ImageTarget name="BOTOL_HUSTLCAMP" size="100.000000 109.083908" />
+    <ImageTarget name="BONANG" size="100.000000 109.083908" />
+    <ImageTarget name="BOKOR" size="100.000000 109.083908" />
+    <ImageTarget name="BADIK" size="100.000000 109.083908" />
+    <ImageTarget name="SETRIKA_ARANG" size="100.000000 109.083908" />
+    <ImageTarget name="POCI" size="100.000000 109.083908" />
+  </Tracking>
+</QCARConfig>

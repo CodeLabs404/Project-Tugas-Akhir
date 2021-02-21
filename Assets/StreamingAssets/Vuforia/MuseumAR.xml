@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Singkal" size="100.000000 158.463943" />
+    <ImageTarget name="Lulumpang2" size="100.000000 158.463943" />
+    <ImageTarget name="Lesung" size="100.000000 158.463943" />
+    <ImageTarget name="Lampu_Sinyal_Kereta" size="100.000000 158.463943" />
+    <ImageTarget name="Bokor2" size="100.000000 158.463943" />
+    <ImageTarget name="Badik2" size="100.000000 158.463943" />
+    <ImageTarget name="Tombak" size="100.000000 158.463943" />
+    <ImageTarget name="Tas_Kaneron" size="100.000000 158.463943" />
+    <ImageTarget name="Setrika_Arang" size="100.000000 158.463943" />
+    <ImageTarget name="Etem" size="100.000000 158.463943" />
+    <ImageTarget name="Topi_Dudukuy" size="100.000000 158.463943" />
+    <ImageTarget name="Mangkuk" size="100.000000 158.463943" />
+    <ImageTarget name="Lulumpang" size="100.000000 158.463943" />
+    <ImageTarget name="Kolotok" size="100.000000 158.463943" />
+    <ImageTarget name="Keris" size="100.000000 158.463943" />
+    <ImageTarget name="Helm_Prajurit" size="100.000000 158.463943" />
+    <ImageTarget name="Bubu" size="100.000000 158.463943" />
+    <ImageTarget name="Bokor" size="100.000000 158.463943" />
+    <ImageTarget name="Pangarih" size="100.000000 158.463943" />
+    <ImageTarget name="Gong" size="100.000000 158.463943" />
+    <ImageTarget name="Botol_Hulstkamp" size="100.000000 158.463943" />
+    <ImageTarget name="Bonang" size="100.000000 158.463943" />
+    <ImageTarget name="Badik" size="100.000000 158.463943" />
+    <ImageTarget name="Saron" size="100.000000 158.463943" />
+    <ImageTarget name="Rebab_Tarawangsa" size="100.000000 158.463943" />
+    <ImageTarget name="POCI" size="100.000000 158.463943" />
+  </Tracking>
+</QCARConfig>
